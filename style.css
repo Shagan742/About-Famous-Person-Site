@@ -16,3 +16,15 @@
 .funfacts {
     background-color:red;
 }
+
+.link1, .link2, .link3 {
+    text-decoration:none;
+    color:black;
+    font-size:30px;
+}
+
+.link1:hover, .link2:hover, .link3:hover {
+    text-decoration:none;
+    color:grey;
+    font-size:30px;
+}
