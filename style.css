@@ -1,5 +1,7 @@
 .jumbotron {
-    background-color:white;
+    background-image:url(imgs/queenmaryIbannerpic.jpg);
+    color:white;
+    height:300px;
 }
 
 .earlylife {
