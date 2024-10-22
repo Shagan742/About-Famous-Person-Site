@@ -1,7 +1,30 @@
+.navbar {
+    position:fixed;
+    width:100%;
+    z-index:1;
+}
+
 .jumbotron {
     background-image:url(imgs/queenmaryIbannerpic.jpg);
+    background-size:cover;
+    background-position-x:center;
     color:white;
-    height:300px;
+    height:800px;
+    filter: brightness(0.8);
+    box-shadow:inset 0px -130px 150px 0px black;
+    position:relative;
+    z-index:0;
+}
+
+.jumbotronheader1 {
+    font-size:50px;
+}
+.jumbotronheader2 {
+    font-size:30px;
+}
+
+.jumbotrontext {
+    margin-top:250px;
 }
 
 .earlylife {
