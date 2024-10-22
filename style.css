@@ -4,6 +4,12 @@
     z-index:1;
 }
 
+.sectionheaders {
+    font-size:50px;
+}
+
+/* start of jumbotorn */
+
 .jumbotron {
     background-image:url(imgs/queenmaryIbannerpic.jpg);
     background-size:cover;
@@ -27,20 +33,43 @@
     margin-top:250px;
 }
 
+
+
+/* start of early life section */
 .earlylife {
     background-color:red;
 }
+
+/* start of societal contributions section */
 
 .societalcontributions {
     background-color:red;
 }
 
+
+/* start of legacy section */
 .legacy {
     background-color:red;
 }
+
+
+.legacyinfo {
+    font-size:30px;
+}
+
+.legacyimg {
+    height:500px;
+    width:auto;
+}
+
+/* start of funfacts section */
+
 .funfacts {
     background-color:red;
 }
+
+
+/* start of footer */
 
 .link1, .link2, .link3 {
     text-decoration:none;
