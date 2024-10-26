@@ -146,6 +146,10 @@ html {
     font-size:30px;
 }
 
+.footer-header1 {
+    color:white;
+}
+
 .link1:hover, .link2:hover, .link3:hover {
     text-decoration:none;
     color:grey;
