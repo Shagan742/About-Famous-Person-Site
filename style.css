@@ -141,9 +141,10 @@ html {
 /* start of footer */
 
 .link1, .link2, .link3 {
-    text-decoration:none;
+    text-decoration:underline;
     color:white;
     font-size:30px;
+
 }
 
 .footer-header1 {
