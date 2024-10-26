@@ -10,6 +10,15 @@ html {
     font-size:50px;
 }
 
+.earlylife, .societalcontributions, .legacy, .funfacts {
+    background-image:url(imgs/sectionbackgrounds.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position-x:center;
+    background-position-y:center;
+    border-radius:30px;
+}
+
 
 /* start of navbar  */
 
@@ -19,7 +28,13 @@ html {
     z-index:1;
 }
 
+nav {
+    background-color:darkred;
+}
 
+.navbar-brand, .nav-link {
+    color:white;
+}
 
 
 /* start of jumbotron */
