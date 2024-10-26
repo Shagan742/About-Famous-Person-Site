@@ -1,3 +1,6 @@
+html {
+    overflow-x:hidden;
+}
 .navbar {
     position:fixed;
     width:100%;
@@ -8,7 +11,7 @@
     font-size:50px;
 }
 
-/* start of jumbotorn */
+/* start of jumbotron */
 
 .jumbotron {
     background-image:url(imgs/queenmaryIbannerpic.jpg);
@@ -40,12 +43,37 @@
     background-color:red;
 }
 
+.earlylifeinfo2 {
+    font-size:20px;
+}
+
+.earlylifeinfo {
+    font-size:30px;
+}
+
+.earlylifeimg {
+    height:400px;
+    width:auto;
+}
+
 /* start of societal contributions section */
 
 .societalcontributions {
     background-color:red;
 }
 
+.socialcontimg {
+    height:400px;
+    width:auto;
+}
+
+.socialcontinfo2 {
+    font-size:20px;
+}
+
+.socialcontinfo {
+    font-size:30px;
+}
 
 /* start of legacy section */
 .legacy {
@@ -53,12 +81,16 @@
 }
 
 
+.legacyinfo2 {
+    font-size:20px;
+}
+
 .legacyinfo {
     font-size:30px;
 }
 
 .legacyimg {
-    height:500px;
+    height:400px;
     width:auto;
 }
 
