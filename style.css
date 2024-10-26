@@ -113,8 +113,28 @@ html {
     z-index:0;
 }
 
-.funfactsimgs {
+.funfactsimg1 {
+    height:250px;
+    width:auto;
+}
+
+.funfactsimg2 {
+    height:200px;
+    width:auto;
+}
+
+.funfactsimg3 {
+    height:200px;
+    width:auto;
+}
+
+.funfactsimg4 {
     height:300px;
+    width:auto;
+}
+
+.funfactsimg5 {
+    height:200px;
     width:auto;
 }
 
