@@ -5,15 +5,22 @@ body {
 html {
     overflow-x:hidden;
 }
+
+.sectionheaders {
+    font-size:50px;
+}
+
+
+/* start of navbar  */
+
 .navbar {
     position:fixed;
     width:100%;
     z-index:1;
 }
 
-.sectionheaders {
-    font-size:50px;
-}
+
+
 
 /* start of jumbotron */
 
